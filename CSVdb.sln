@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVdb", "CSVdb\CSVdb.csproj", "{B94275DA-F518-4271-BD37-E98E4B9D2BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B94275DA-F518-4271-BD37-E98E4B9D2BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94275DA-F518-4271-BD37-E98E4B9D2BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94275DA-F518-4271-BD37-E98E4B9D2BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94275DA-F518-4271-BD37-E98E4B9D2BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
